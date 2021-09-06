@@ -1,0 +1,15 @@
+.vl {
+  border-left: 0.1em solid gray;
+  height: 5em;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.post {
+    border: 0.1em solid gray;
+    width: 80%;
+    margin: auto;
+}
