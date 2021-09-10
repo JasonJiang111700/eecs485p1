@@ -1,0 +1,12 @@
+hello
+├── [drwxr-xr-x jasonjiang]  templates
+│   └── [-rw-r--r-- jasonjiang]  index.html
+├── [-rw-r--r-- jasonjiang]  config.json
+├── [drwxr-xr-x jasonjiang]  html
+│   └── [-rw-r--r-- jasonjiang]  index.html
+├── [drwxr-xr-x jasonjiang]  out
+│   └── [-rw-r--r-- jasonjiang]  index.html
+└── [drwxr-xr-x jasonjiang]  die
+    └── [-rw-r--r-- jasonjiang]  index.html
+
+4 directories, 5 files
